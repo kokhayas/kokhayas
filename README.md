@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokhayas)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kokhayas&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @kokhayas
 - 👀 I’m interested in web application engineering
 - 🌱 I’m currently learning information science and technology
